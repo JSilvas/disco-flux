@@ -1,2 +1,2 @@
-# disco-flux
-Experiments with disco diffusion and other generative models
+# Mind Alchemy
+~ An explorer’s toolkit for spelunking into the latent space of generative AI
